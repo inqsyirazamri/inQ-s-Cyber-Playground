@@ -1,2 +1,11 @@
 # inQ-s-Cyber-Playground
-They say the best way to understand cybersecurity is by doing it
+Hands-on cybersecurity labs I completed to practice real-world defensive and offensive techniques across various areas of cybersecurity, including incident response, network security, malware simulation, secure infrastructure, and threat detection. Each lab includes a PDF write‑up explaining objectives, steps taken, evidence, and findings. This is an ongoing repo where I connect all the dots of knowledge I’ve gained through “learning security my way” journey, and hopefully, this helps polish my writing skills too >_< ✨
+
+## Contents
+
+| Lab                                             | Description                                                                                                                               | Tools                                                                                         |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Write‑Up #1 – Incident Response & Forensics** | Simulated brute-force and web shell intrusions. Investigated Apache logs, collected evidence, and analyzed malicious activity. | Apache logs, firewall logs, tcpdump, Wireshark, VirtualBox, Hydra, Netcat, Nmap, PHP, OpenSSH |
+| **Write‑Up #2 – VPN Setup**                     | Configured and tested secure VPN communication between virtual machines.                                                                  | OpenVPN, Ubuntu 24.04 LTS, VirtualBox                                                         |
+| **Write‑Up #3 – Port Scanning**                 | Performed active and passive port scans. Used Nmap + NSE to detect custom vulnerability indicators within HTTP headers.                   | Nmap, NSE, Wireshark, Ubuntu 24.04 LTS                                                        |
+| **Write‑Up #4 – Malware Simulation Attacks**    | Created EICAR file, monitored AV responses, and simulated Windows reverse shell attacks with Metasploit.                                  | Metasploit, msfvenom, PowerShell, Ubuntu VM                                                   |
