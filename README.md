@@ -1,5 +1,5 @@
 # inQ-s-Cyber-Playground
-Hands-on cybersecurity labs I completed to practice real-world defensive and offensive techniques across various areas of cybersecurity, including incident response, network security, malware simulation, secure infrastructure, and threat detection. Each lab includes a PDF write‑up explaining objectives, steps taken, evidence, and findings. This is an ongoing repo where I connect all the dots of knowledge I’ve gained through “learning security my way” journey, and hopefully, this helps polish my writing skills too >_< ✨
+Hands-on cybersecurity labs I completed to practice real-world defensive and offensive techniques across various areas of cybersecurity, including incident response, network security, malware simulation, secure infrastructure, and threat detection. Each lab includes a PDF write‑up explaining objectives, steps taken, evidence, and findings. This is an ongoing repo where I connect all the dots of knowledge I’ve gained through “learning security my way” journey, and hopefully, this helps polish my writing skills too ✨✨
 
 ## Contents
 
